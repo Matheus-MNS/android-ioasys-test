@@ -93,6 +93,7 @@
         android:layout_marginStart="12dp"
         android:layout_marginTop="26dp"
         android:background="@null"
+        android:inputType="textPassword"
         android:hint="@string/passwaord_text"
         android:textSize="17sp"
         android:textStyle="normal"

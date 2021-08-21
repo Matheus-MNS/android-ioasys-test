@@ -5,4 +5,6 @@
     <string name="email_text">E-mail</string>
     <string name="passwaord_text">Senha</string>
     <string name="login_button_text">ENTRAR</string>
+    <string name="home_instructions_text">Clique na busca para iniciar</string>
+    <string name="search_bar_hint">Pesquisar</string>
 </resources>
